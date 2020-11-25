@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Koichi Otsuka',
-  subtitle: 'I\'m the Network Engineer',
+  subtitle: 'I\'m the Site Reliability Engineer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'ネットワーク・エンジニア',
+  paragraphOne: 'SRE エンジニア',
   paragraphTwo: '休みの日にはランニング',
   paragraphThree: '酒と旅行も好きです'
 };
